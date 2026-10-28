@@ -71,8 +71,8 @@ export const moonPayWallet = ({
     downloadUrls: {
       android: 'https://play.google.com/store/apps/details?id=com.moonpay',
       ios: 'https://apps.apple.com/app/moonpay/id1635031432',
-      mobile: 'https://www.moonpay.com/',
-      qrCode: 'https://www.moonpay.com/',
+      mobile: 'https://moonpay.onelink.me/O2ia',
+      qrCode: 'https://moonpay.onelink.me/O2ia',
     },
     mobile: mobileConnector,
     qrCode: qrConnector,
